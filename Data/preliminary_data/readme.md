@@ -1,4 +1,6 @@
-The contents of this directory are protected and are available only on the private version of this repository. The withheld files are:
+The contents of this directory are protected and are available only on the private version of this repository.
+
+The withheld files are:
 * `Full text articles_dec_jan.xlsx`
 * `Full text articles_oct_nov.xlsx`
 * `Full text w cleaned journo names.csv`
