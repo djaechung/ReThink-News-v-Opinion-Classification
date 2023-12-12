@@ -8,4 +8,4 @@ Contents:
 * `Research_Report.pdf` - contains the blog post describing this work and the results of the team's classification models
 
 Contributors:
-> Laura Nixon `laurajnixon` <br /> Daniel Chung (djaechung) <br /> Sean Wei (seanwei2001) <br /> Shiny Weng (shinyweng) <br /> David Koo (basketkoo98) <br /> Tiffany Liang (TiffLiang) <br /> Lana Elauria (lana-e)
+> Laura Nixon `laurajnixon` <br /> Daniel Chung `djaechung` <br /> Sean Wei `seanwei2001` <br /> Shiny Weng `shinyweng` <br /> David Koo `basketkoo98` <br /> Tiffany Liang `TiffLiang` <br /> Lana Elauria `lana-e`
